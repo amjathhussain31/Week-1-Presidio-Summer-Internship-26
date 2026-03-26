@@ -107,14 +107,3 @@ print(ask("Explain MapReduce"))
 
 ---
 
-## 👨‍💻 Author
-
-**Amjath Hussain**
-
----
-
-## ⭐ Show Your Support
-
-If you like this project, give it a ⭐ on GitHub!
-
----
